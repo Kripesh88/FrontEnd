@@ -1,0 +1,64 @@
+*{
+    font-family: 'Roboto',sans-serif;
+  
+}
+.logo{
+    font-size: 1.8em;
+    word-spacing: -3px;
+    color: tomato;
+    text-shadow: 2px 2px 2px rgb(63, 56, 56),3px 3px 3px black;
+    size: 0cqmax;
+   
+}
+
+a{
+    text-decoration: none;
+   
+     
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 10px 30px;
+    
+   
+   
+    
+}
+.heading{
+    color: grey;
+}
+.para{
+    line-height: normal;
+height: 100;
+width: 500;
+}
+.container{
+   
+    border: 1px solid black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+
+}
+.love{
+    color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.help{
+    color: orangered;
+}
+
+.back{
+    background-color: grey;
+}
